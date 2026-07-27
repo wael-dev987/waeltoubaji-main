@@ -1,2 +1,3 @@
 # waeltoubaji-main
 
+\details
